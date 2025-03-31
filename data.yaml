@@ -1,0 +1,13 @@
+train: /Users/a1234/Desktop/pyth/VLM/frist/task2025.3.22/MyFirstProjectyolov12/train/images
+val: /Users/a1234/Desktop/pyth/VLM/frist/task2025.3.22/MyFirstProjectyolov12/valid/images
+test: /Users/a1234/Desktop/pyth/VLM/frist/task2025.3.22/MyFirstProjectyolov12/test/images
+
+nc: 4
+names: ['cola-ofoods', 'fries-ofoods', 'hamburger-ofoods', 'sauce-ofoods']
+
+#roboflow:
+#  workspace: aifornutritionassistance
+ # project: my-first-project-wq0m6
+  #version: 3
+ # license: CC BY 4.0
+  #url: https://universe.roboflow.com/aifornutritionassistance/my-first-project-wq0m6/dataset/3
