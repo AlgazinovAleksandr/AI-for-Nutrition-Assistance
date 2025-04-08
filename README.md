@@ -1,0 +1,1 @@
+A project about using advanced CV and NLP tools for a comprehensive nutritional assistance . We are looking for motivated collaborators. If interested, please feel free to contact me at algazinovalexandr@gmail.com
