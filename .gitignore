@@ -1,3 +1,5 @@
 constants.py
 .DS_Store
 __pycache__/
+.cache
+DietFormer_EXP
